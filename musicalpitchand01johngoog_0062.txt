@@ -1,0 +1,42 @@
+48
+
+double geometrioal quaternion or tetreetys of the Pytha·
+goreana is formed by joining to unity the first three powers
+of 2 and of 3, thus: 1, 2, 3, 4, 9, 8, 27. This tetractys may
+be arranged eo as to exhibit the two branohea oonsisting of
+powers of 2 and 3, respectively‚ by making a Lambda,¹ as
+follows: 1
+2 3
+4 9
+8 27
+
+The lest braneh contains the duple intervals (διπλάσια δια-
+στήματα) and the right one the triple intervals (τριπλάσια
+διαστήματα). Then between the terms of every interval the
+harmonieal² and the arithmetioal means are inserted. In this
+way two series are obtained: 1, t, l, 2, t, 3, 4, 131, 6, 83
+and 1, l, 2, 3, l, 6, aas, 18, 27.
+The successiones intervals in the first series, or lest branoh,
+is t, l, 43 t, t, ὴ t, t, t ; the suooession in the seoond series,
+or right branoh, is ff, ᾖ, {3 t, t, ἢ t, t, Β that is to say, in
+the first series, the seeond term is t of the first, the third ff of
+the seoond, eto. The explanation of these series is held by
+eommentators to be that they refer to musical seales. The
+ratios e and t will then correspond to the consonanoes of the
+Fisth and the Fourth, their produnt (l><1=†) to the sum of
+these intervals, the Octave, and their quotient (l -ζ- t = t) to
+the differenoe, the Tone. The last step in the formationes
+the scales is that by whieh every interval of 423 was filled
+with intervals of 928 (as many as are contained therein), and
+λείμματα, whose terms are as 256 to 243, the intervals of
+322 being first resolved (by implioation) into intervals of 423
+and 928. Soalee are therefore formed in whieh eaoh note
+
+¹Attributed to Crantor (Plutarch, de antor. prora, e. 29, 1027 1)).
+
+¹The harmonioal mean ia erroh that the differenoa between it end the
+leaser extreme is the same part of the latter as tha differente between the
+greater extreme and the harmonioal mean is of that extreme.
+
+ 
+

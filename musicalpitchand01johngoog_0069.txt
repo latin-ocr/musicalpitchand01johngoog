@@ -1,0 +1,44 @@
+55Ι
+
+After eommenting on the wonderful properties of the
+Pythagoream tetrastys, the number 36,1 the author olaims for
+the quaternion in question, ealled the Platonio tetraotys‚ an
+even higher degree of perfeetion. The planen which the
+quaternionis construoted isthen set forth and the advantage
+of the Lambda-like arrangement is seon to be that like
+powers of 2 and 3 are eonveniently placed for being added
+and multiplied together. In chapter 12 they are added:
+2†3=5; 4†a=13; 8†27=35; and thesignifieanoe
+of these numbers is stated in the following words (Plus, de
+αιιίιιι. prodr„ e. 12, 1017 F): τούτων γὰρ τῶν ἀριθμῶν οἱ
+Πυθαγορικοὶ τὰ μὲν ε’ τροφόν, ὅπερ ἐστὶ φθόγγον, ἐκάλουν,
+οἰόμενοι τῶν τοῦ τόνου διαστημάτων πρῶτον εἶναι φθεγκτὸν
+τὸ πέμπτου· τὰ δὲ τρισκαίδεκα λεῖμμα, καθάπερ Πλάτων,
+τὴν εἰς ἴσα τοῦ τόνου διανομὴν ἀπογιγνώσκοντες· τά δὲ πέντε
+καὶ τριάκοντα ἁρμονίαν, ὅτι συνέστηκεν ἐκ δυεῖν κύβων
+πρώτων ἀπ’ ἀρτίου καὶ περιττοῦ γεγονότων, ἐκ τεσσάρων δ’
+ἀριθμῶν, τοῦ ς’ καὶ τοῦ η’ καὶ τοῦ θ’ καί ιβ ’, τὴν ἀριθμητικὴν
+καὶ τὴν ἁρμονικὴν ἀναλογίαν περιεχόντων.
+
+Nothing more is said at this plaoe of 5, the τροφόν, and 13,
+the λεῖμμα,2 but the nature of the ἁρμονία, 35, is illustrated
+by means of a diagram. A reetangle is oonstruoted whose
+sides are to one another in length as 5 to 7. The area will
+then be 35. The author then divides the reetengle into four
+oompartments by. drawing two lineo, one perpendicular to the
+shorter sides and dividing them eaoh into two parts with
+lengths 2 and 3, and the other perpendicnlar to the longer
+sides and dividing them into parts with lengths 3 and 4.
+
+1'l'he sum oi the first four even numbers and the first four odd numbers
+isse: 1÷3÷5÷7=16
+2÷4†6†8=2o .
+
+Every odd number with the following even number forms a syzygy. The
+fourth symgy, 7 and 8, is the first to form aequare (ἀπ-36), whether
+alone or, as in the present case, added to the sum of its predecessore.
+
+'The τροφόν will be discussed at p. 62, εγ, the λεῖμμα at p. 57, sq.
+
+ 
+

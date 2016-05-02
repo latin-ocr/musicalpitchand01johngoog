@@ -1,0 +1,43 @@
+61
+
+the experiment of some ancient investigator. Let the sound
+produced by the whole length of a string be the lowest of two
+notes forming a Fourth. The upper note will then be given
+by three-quartem of the string. In order to descend by Major-
+tones from this upper note, it is necessary twice in succession
+to increase the length of the vibrating part of the string by
+an eighth part of itself. The ff of the string must, then, be
+multiplied by ff to give the length which will sound the second
+(descending) note, and the result by t again to give the third.
+We shall have ξ>< ff >< ξε m for the length used for this
+third (next to the gravest) note. Therelore, if the whole
+string is divided into 256 equal parts, when the string is
+‘stupped' by the finger so as to cut off 13 parts (leaving 243
+to vibrate), it will give a note forming with the open string
+the interval of the Leimma. The next 27 parts (making 40)
+will gives note acuter than the last by the interval of a Tone,
+and the next 24 (making 64 in all) will give another Tone,
+completing the whole Fourth. In this way the Pythagorean
+numerical values for the Tone and Leimma may he practically
+illustrated. .
+
+We have now seen how the Pythagoreans put a musical
+interpretation on the sum of the equares of 2 and 3 and on
+the sum of their umes, the numbers of the double quaternion
+having been arranged in the convenient form of a Lambda,
+which suggested the idea of adding like powers. On the
+one hand, they took the result ol the addition (the number
+35, the sum of the cubes), made a new separation of the
+material, and obtained, as the result of the analysis, four
+numbers (6, 8, 9, and 12), such that they can represent the
+four most important notes of the octachord of Pythagoras
+(hypate, mese, paramese, and nete ¹), whether they are regarded
+
+1They are the ‘standing' notes (see p. 60, η’, above). In the (Greater)
+Periect System (which is the original octachord expanded at each end) their
+names are: ὑπάτη μισῶν, μέση, παραμέση, and νήτη διεζευγμένων (νήσων).
+Sec Miiller'a Haodbach (2nd revised sd), ΙΙ. E.e.(1>ia Mutila der Grimhcn,
+by H. Gleditsch), Ξ 200, pp. 860-862.
+
+ 
+

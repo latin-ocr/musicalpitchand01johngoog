@@ -1,0 +1,41 @@
+43
+
+exercised. For in order that two stringe oi equal length and
+size shall produce sounds which form some given interval, it
+is necessary to use weights which are to each other inversely
+as the apaturos of the lengths of strings of equal siae at the
+same tension producing the same interval ; in other words,
+the lengths vary inversely as the square-roots of the weights.
+The weights would not, therefore, give directly the ratios
+desired. It is doubtful if the ancients could have obtained the
+musical ratios from weights attached to stringe. Allowanee
+would also have to be made for the fact that the weight of
+the string per linear unit is diminished by the tension.
+Ptolemy appreciated the difficulties attending these methcds
+and discusses thern in his Harmoniae, 1. viii, p. 17 Wallis
+The instrument on which the greatest reliance was placed
+for determining the ratios was the κανὼν μονόχορδος or ἁρμο-
+νικός. Ptolemy describes it in the chapter cited above. It
+consisted of a vibrating string stretehed between two fixed
+bridges, and passing overa third bridge, which could move
+freely between the fixed bridges, and thus could be used to
+divide the whole length of the string into two parts at any
+desired point. The distance between the movable bridge and
+the fixed bridges was measured on a scale which ran beneath
+the string. By means of this instrument the ratios associated
+with the various musical intervals could easily be calculated.
+Conversely‚ if the movable bridge were placed at such a point
+that the distance from one fixed bridge bore a certain ratio to
+the length of the whole string, the interval corresponding ,to
+the ratio could be produced. If the whole length of the string
+were tuned to be in unison with the lowest note of the scale of
+two Octaves, called the Perfect System, the proper distanoes
+could be marked off for all the other notes. This operation
+was called ἡ τοῦ κανόνος κατατομή. We have a description
+of the method in which the string was divided tc produce this
+scale in Theo Smyrnaeus, de musico, c. 12 (pp. 57, 58 Hiller),
+and cc. 35, 36 (pp. 87-93 Hiller), where Thrasyllus is quoted
+in astaram and in Euclid, sectio cononis, ἐξ 19, 20 (p. 163, sq.
+
+ 
+

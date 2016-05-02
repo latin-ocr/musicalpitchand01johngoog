@@ -1,0 +1,49 @@
+50
+
+case, even if the scales are purely numerical scales, they seem
+to have been suggested by musical scales iu actual use, and
+may be illustrated end explained by suppodng them to be
+
+musical. We may safely see in the intervals between the
+terme of the series references to the ratios associated with
+musical intervals.
+
+We have in Euclid's sectio ccccm? the earliest statement
+in which the ratios² are explicitly given for the musical con·
+sonauces. The first nine theorema (ten in MeibomiuS,Actiq1tae
+Murteae Auctoree Septem) are purely mathematioal, dealing
+with the ratics. In 10 (11 Meib.) the author proves that
+
+the interval διὰ πασῶν is multiple; in 11 (12) thet the tut
+τεσσάρων and oe πέντε are each superparticular3 in 12 (13-
+15) that the ratio of the διὰ πασῶν is 221, that the ratios of
+
+¹K.v.Jan, McsiciSmptoroe Gruee', p. 148, sq.
+
+’A teu words ought at this point to be said in explanation of the tech-
+nical terma used in the arithmetic os the Greeks for various sorte of ratios.
+When the greater term of a ratio was compared r'rith the lesser, and ao
+usually preceded it, the ratio was called rptaoym when the leeser was
+compared with the greater, the rati0 was called ὑπόλογος. There uas
+also a distinction of three kinds of ratioe according as the antecedent uas
+greater than, was equal to, or rras lesa than, the consequent, as in Theo Smyr-
+naeus, de musica, c. 22 (p. 74 Hiller): τῶν tt λόγον ol μέν εἶσι μείζονες, οἱ dl
+ἐλάττονες, ot Ησοι. Eqnal ratios are those in which the terms are equal.
+Of ratios where the first term is greater than the second, five kinds were
+distinguished: λόγοι πολλαπλάσιοι, λ. ἐπιμόριοι, λ. ἐτιμερεΐς, λ. amarmu-
+επιμίριοι, and λ. οολλοπλονιεπιμερεῖς. A multiple ratio is one whose first term
+contains the second an exact number of times (cp. cit, c. 23, p. 78,ο Hiller);
+a erpepurtieulur ratio is one whose first term contains the second once and
+also an aliquot part ol the second (c. 24, p. 76, ιι), a φησι-11111 ratio is
+one whose first term contains the second once and also more than one aliquot
+partos the second (c. 25, p. 78, ο); multiplezeapeparttenlur (c. 26, p. 78, ar)
+aud ercammarum (e 27, p. 71111) ratius are like the laet two kinds,
+hut the first terma contain the second terme more than once, plue a fraction.
+Theon gives a sixth kind (op. eit, e 28, p. 80, r), namely, λόγος ἀριθμοῦ πρὸς
+&proptr (found also in Ptolemy, Ηαηλ, 1. ν, p. 10 Wallis). Ido not see why
+this is not included under one ot the other kinds. The example gironis
+the ratic of 256 to 248, which is superpartieut. The ὑπόλογον have the same
+names as the πρόλογον with the prefix ὑπο· added, as efferremus.
+
+ 
+

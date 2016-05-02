@@ -1,0 +1,44 @@
+38
+
+and not, of course, to add them, it follows that the sum of
+two intervals cannot be obtained by direct addition of their
+ratios, narare ratios so related that a common constituent can
+be found which could serve as a measure of their relative sine.
+“If we wish to have a measure of intervals in the proper
+sense, we must take, not the characteristic ratio itself, but the
+logarithm of that ratio. Then, and then only, will the measure
+of a compound interval be the sum of the measures of the
+components,'' ¹ and when this has been done all the logarithms‚
+with a few exceptione, will he found to he incommensurable.
+But of course, the sine of any interval ean be calculated to
+any required degree of accuracy.
+
+This great fact of the incommensurability of musical inter-
+vals was known to the Greeks. It was recognized to he true
+both practically and theoretically. The eleventh chapter of
+the first book of Ptolemy’s Harmonice contains first a mathe- ¹
+matical demonstration that six Tones exceed an Octave, and
+the amount of this excess, it is then stated, is perceptible coca
+lottecar. Earlier writers than Ptolemy prove mathematically
+that six Tones exceed an Octavo hyan interval (called the
+Pythagorean Comma) whose ratio is 524,288 :531,441. Since
+this excess is slightly larger than the Comma of Didymus
+(80 : 81) which is the difference between the Major and the
+Minor Wholetone (or between the true or just Major-third
+and the Pythagorean Major-third), Ptolemy's statement is not ·
+in the least incredible. All the difficulties sought to he obvi-
+ated by the device of equal temperament arise from small
+intervals, which are rarely larger than the Comma (80:81)
+by even a quarter of its size. If such intervals are felt by
+
+moderna, we cannot deny to the ancients ability to perceive
+small intervals of the same aize. The existence of Quarten-
+tones at one period, at least„in the development of Greek
+
+music, points to a high degree of cultivation among the
+ancients of the feeling for pitohdifferenoes.
+
+uad myrags, ru rmoosmaa(1sa),v01.1,p.r.
+
+ 
+

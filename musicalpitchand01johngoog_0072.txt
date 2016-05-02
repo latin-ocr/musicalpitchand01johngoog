@@ -1,0 +1,42 @@
+58
+
+This arithmetical difference varies with the sizo of the terms
+which compose the ratio, whereas the sine of thanatio is inde-
+pendent of the siae of the terms used in forming it. For
+example, the Fifth is expressed by any of the following sotios,
+223, 629, 1002150, bnt the differenceis now 1, now 3, now
+50. But there is this to be said, that whereas the ratios of
+most of the intervals oocurring in music are reducible to ratios
+whose arithmetical difference is 1, or occasionally 2, the ratio
+of the Leimma cannot be reduced to any lower terms than
+2432256, and the difference will therefore always be either
+13 or a multiple of 13.
+
+To show how 27 could be regarded as representing the sine
+of the Tene, we must turn again to the scales in the Timaeus
+construeted on the double geometrical quaternion. When the
+duple and triple intervals which characterizet the two branches
+arefilled up with arithmetical and harmonieal means, the
+series obtained involve fractional numbers (see the series given
+on p. 48), and when every epitrito ratio (3 : 4) is filled np with
+epogdoa (8 29), as far as possible, leaving Leimmata, the new
+terms to be inserted necessitate the use of inconveniently large
+numbers in expressing the improper fractione which result.
+Το avoid these fractione, we may follow the example of the
+ancient commentatore, and multiply all the terms of the series
+by the same number, so as to obtain whole numbers alone in
+which to express the ratios. The first four terms of the binary
+branoh, 1, t, ἃ, 2, become 6, 8, 9, 12, when multiplied hythe
+least common multiple of the denominators of the fractione.
+If now we take the first interval in the series, the ratio 324,
+and proceed to insert two intervals of 8 29, we must multiply
+the terme of the ratio by' 8². This gives 3 >< 8² :4 >< 8²=
+192 z 256, and we have the following series after inserting the
+epogdoa: 192 (Tone) 216 (Tene) 243 (Ioimma) 256 3 and if we
+take the arithmetical differences, we obtain:
+for the Leimma, 256-243=13,
+and for the two Tonas, 243-216=27,
+and 216-192224.
+
+ 
+
